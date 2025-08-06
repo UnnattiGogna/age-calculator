@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Enter birth year"; ObjectID = "48v-Va-FUi"; */
+"48v-Va-FUi.text" = "Enter birth year";
+
+/* Class = "UIButton"; configuration.title = "Enter"; ObjectID = "HBE-Ta-kxc"; */
+"HBE-Ta-kxc.configuration.title" = "Enter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HBE-Ta-kxc"; */
+"HBE-Ta-kxc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2025"; ObjectID = "bBe-RX-5ou"; */
+"bBe-RX-5ou.text" = "2025";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uyq-7Z-Fdq"; */
+"uyq-7Z-Fdq.text" = "Label";
